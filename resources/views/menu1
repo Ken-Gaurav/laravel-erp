@@ -1,0 +1,161 @@
+@include('layouts.admin.header1')
+ <!-- ============================================================== -->
+<!-- Start right Content here -->
+<!-- ============================================================== -->
+<div class="wrapper">
+    <div class="container">
+
+
+
+        <div class="row">
+            <div class="col-10">
+                <div class="card-box">
+
+
+
+                    <form class="form-horizontal" action ="/create" method="POST">
+                       {{csrf_field()}}
+               {{ Form::hidden('admin_id', isset($data) ? $data->admin_id : '') }}
+                   <input type="button" value="Menu" onclick="menu1()"/><br><br>
+                   <input type="button" value="submenu1" onclick="menu2()"/><br><br>
+                    <input type="button" value="submenu2" onclick="menu3()"/><br><br>
+                    <input type="button" value="submenu3" onclick="menu4()"/><br><br>
+                
+                       
+                    <div  id="menu1" style="display:none">
+                        <div class="form-group row">
+                            <label for="example-text-input" class="col-3 col-form-label">title</label>
+                            <div class="col-8">
+                                {{Form::text('title',old('title', isset($data) ? $data->title : ''),['class' => 'form-control','placeholder'=>'title ','required'=>'required'])}}
+                               
+                            </div>
+                        </div>
+                    </div>
+
+            <div id="menu3" style="display:none">
+                        <div class="form-group row">
+                            <label for="example-text-input" class="col-3 col-form-label">menu</label>
+                            <div class="col-8">
+                                
+                             {{Form::select('menu',[''=>'select']+$menu,isset($sub) ? $sub->parent_id : '',['class'=>'form-control m-b','id'=>'menu'])}}
+                                
+                            </div>
+                        </div>
+
+                         <div class="form-group row">
+                            <label for="example-text-input" class="col-3 col-form-label">submenu</label>
+                            <div class="col-8">
+                                
+                             {{Form::select('parent_id',['0'=>'select'],isset($sub) ? $sub->parent_id : '',['class'=>'form-control m-b'])}}
+                                
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="example-text-input" class="col-3 col-form-label">title</label>
+                            <div class="col-8">
+                                <input class="form-control" name="title" type="text" value="" id="example-text-input">
+                            </div>
+                        </div>
+            </div>
+
+
+
+
+                       <div class="form-group">
+                        <div class="col-sm-offset-4 col-sm-8">
+                            @if(!empty($job))
+                                <button type="submit" class="btn btn-primary">Update</button>
+                                {!! link_to(url()->previous(), 'Cancel', ['class' => 'btn btn-white']) !!}
+                            @else
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                                {!! link_to(url()->previous(), 'Cancel', ['class' => 'btn btn-white']) !!}
+                            @endif
+                        </div>
+                    </div>
+
+                    </form>
+                </div>
+
+            </div>
+        </div>
+        <!-- end row -->
+</div> <!-- container -->
+ <!-- Right Sidebar -->
+<!-- /Right-bar -->
+
+</div> <!-- End wrapper -->
+
+
+</body>
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+           $("#menu").change();
+        });
+
+$(document).ready(function() {
+              $('select[name="menu"]').on('change', function() {
+            var optionvalue = $(this).val();
+            //alert(optionvalue);
+            if(optionvalue) {
+                
+                $.ajax({
+
+                    url: '/myform/ajax/'+optionvalue,
+                    type: "GET",
+                    dataType: "json",
+                    success:function(data) {
+
+                        $('select[name="parent_id"]').empty();
+                        $.each(data, function(key, value) {
+                            $('select[name="parent_id"]').append('<option value="'+ key +'">'+ value +'</option>');
+                        });
+
+                    }
+                });
+            }else{
+                $('select[name="parent_id"]').empty();
+            }
+        });
+
+    });
+
+function menu1() {
+    var x = document.getElementById("menu1");
+    if (x.style.display === "none") {
+      $('#menu1').css('display','inline');
+            }else{
+           $('#menu1') .css('display','none');
+    }
+}
+
+function menu2() {
+    var x = document.getElementById("menu2");
+    if (x.style.display === "none") {
+      $('#menu2').css('display','inline');
+            }else{
+           $('#menu2') .css('display','none');
+    }
+}
+
+function menu3() {
+    var x = document.getElementById("menu3");
+    if (x.style.display === "none") {
+      $('#menu3').css('display','inline');
+            }else{
+           $('#menu3') .css('display','none');
+    }
+}
+
+
+function menu4() {
+    var x = document.getElementById("menu4");
+    if (x.style.display === "none") {
+      $('#menu4').css('display','inline');
+            }else{
+           $('#menu4') .css('display','none');
+    }
+}
+            
+</script>
+</html>

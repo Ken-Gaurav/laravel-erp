@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d8d31b3-94e4-4ebd-be04-4b4c7ff55656" name="Default" comment="" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Y" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pouch_volume</find>
+      <find>add_blogs</find>
+      <find>status</find>
+      <find>i</find>
+      <find>iC</find>
+      <find>iCh</find>
+      <find>iChe</find>
+      <find>iChecj</find>
+      <find>iChec</find>
+      <find>iCheck</find>
+      <find>iChecks</find>
+      <find>$Inward</find>
+      <find>$Item</find>
+      <find>product_item_id</find>
+      <find>product_name</find>
+      <find>product_category_id</find>
+      <find>$category</find>
+      <find>product_category</find>
+      <find>TextBoxContainer</find>
+      <find>col-sm-6</find>
+      <find>inner</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="Y:/resources/views/Admin/product/index.blade.php" />
+        <option value="Y:/resources/views/Admin/product/form.blade.php" />
+        <option value="Y:/app/Models/Productpouch.php" />
+        <option value="Y:/resources/views/product_option.blade.php" />
+        <option value="Y:/resources/views/admin/Production/Unit_Master/Unit_Master_Index.blade.php" />
+        <option value="Y:/app/Http/Controllers/Admin/ProductpouchController.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Production/Unit_Master_Controller.php" />
+        <option value="Y:/app/Models/Production_Process_Model.php" />
+        <option value="Y:/composer.json" />
+        <option value="Y:/resources/views/admin/Production/Production_Process/Production_Process_add.blade.php" />
+        <option value="Y:/resources/views/admin/Production/Production_Process/Production_Process_Index.blade.php" />
+        <option value="Y:/database/migrations/2017_09_16_062143_Product_Category.php" />
+        <option value="Y:/app/Models/Product_Category_Model.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Production/Production_Process_Controller.php" />
+        <option value="Y:/config/database.php" />
+        <option value="Y:/resources/views/admin/Production/Product_Category/Product_Category_add.blade.php" />
+        <option value="Y:/resources/views/admin/Production/Product_Category/Product_Category_Index.blade.php" />
+        <option value="Y:/database/migrations/2017_09_18_064229_Machine_Master.php" />
+        <option value="Y:/app/Models/Machine_Master_Model.php" />
+        <option value="Y:/app/Http/routes.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Production/Product_Category_Controller.php" />
+        <option value="Y:/resources/views/admin/Production/Machine_Master/Machine_Master_Index.blade.php" />
+        <option value="Y:/resources/views/admin/Ink Master/Ink_master/Ink_master_index.blade.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Product/Ink_master_Controller.php" />
+        <option value="Y:/app/Models/Inkmaster.php" />
+        <option value="Y:/app/Models/Product_make.php" />
+        <option value="Y:/database/migrations/2017_09_19_093740_Product_Item_Info.php" />
+        <option value="Y:/app/Models/Product_model.php" />
+        <option value="Y:/resources/views/admin/product/index.blade.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Product/product_controller.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Production/Machine_Master_Controller.php" />
+        <option value="Y:/public/packages/erp/js/plugins/iCheck/icheck.min.js" />
+        <option value="Y:/resources/views/admin/product/form.blade.php" />
+        <option value="Y:/resources/views/layouts/admin/header.blade.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Product/product_pouch_controller.php" />
+        <option value="Y:/resources/views/admin/Production/Machine_Master/Machine_Master_add.blade.php" />
+        <option value="Y:/resources/views/admin/Production/Raw_Material/product_item_info_index.blade.php" />
+        <option value="Y:/app/Models/product_item_info_model.php" />
+        <option value="Y:/resources/views/admin/Production/Raw_Material/product_item_info_add.blade.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Production/product_item_info_controller.php" />
+        <option value="Y:/resources/views/admin/product/form.blade.php" />
+        <option value="Y:/resources/views/admin/Production/Process/Job_Master/Job_Master_Index.blade.php" />
+        <option value="Y:/resources/views/admin/Production/Inward/Product_Inward_add.blade.php" />
+        <option value="Y:/database/migrations/2017_10_09_083424_Job_master.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Production/Product_Inward_Controller.php" />
+        <option value="Y:/app/Models/Job_Master_Model.php" />
+        <option value="Y:/resources/lang/en/dashboard.php" />
+        <option value="Y:/resources/views/admin/Production/Process/Job_Master/Job_Master_add.blade.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Production/Job_Master_Controller.php" />
+        <option value="Y:/app/Http/Controllers/Admin/Product/Product_MaterialController.php" />
+        <option value="Y:/resources/views/admin/ProductMaterial/Product_Material_form.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1620" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Y" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Y:" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="V:/" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Y:\resources\views\admin\Production" />
+      <recent name="Y:\resources\views\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d8d31b3-94e4-4ebd-be04-4b4c7ff55656" name="Default" comment="" />
+      <created>1504872574892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504872574892</updated>
+      <workItem from="1504872576312" duration="445000" />
+      <workItem from="1505367822535" duration="6736000" />
+      <workItem from="1505388344656" duration="1523000" />
+      <workItem from="1505901297056" duration="4000" />
+      <workItem from="1506415082976" duration="66000" />
+      <workItem from="1506415180345" duration="11000" />
+      <workItem from="1506415207944" duration="5000" />
+      <workItem from="1506415270635" duration="35000" />
+      <workItem from="1506423368649" duration="3386000" />
+      <workItem from="1506657903727" duration="40000" />
+      <workItem from="1506685578416" duration="90000" />
+      <workItem from="1506685707706" duration="503000" />
+      <workItem from="1506686326180" duration="83000" />
+      <workItem from="1507289349877" duration="502000" />
+      <workItem from="1507357363409" duration="52000" />
+      <workItem from="1507531942894" duration="1099000" />
+      <workItem from="1507533437464" duration="11972000" />
+      <workItem from="1507709511923" duration="11188000" />
+      <workItem from="1507779482468" duration="419000" />
+      <workItem from="1517981015479" duration="40000" />
+      <workItem from="1517981058764" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38215000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1620" height="920" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23067331" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2903907" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://Y:/resources/views/admin/ProductMaterial/Product_Material_form.blade.php" />
+    <entry file="file://Y:/resources/views/admin/ProductMaterial/Product_Material_index.blade.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Product/Product_MaterialController.php" />
+    <entry file="file://Y:/resources/views/admin/Production/Inward/Product_Inward_add.blade.php" />
+    <entry file="file://Y:/resources/views/admin/ProductMaterial/Product_Material_form.blade.php" />
+    <entry file="file://Y:/resources/views/admin/ProductMaterial/Product_Material_index.blade.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Product/Product_MaterialController.php" />
+    <entry file="file://Y:/resources/views/admin/Production/Inward/Product_Inward_add.blade.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Production/Job_Master_Controller.php" />
+    <entry file="file://Y:/app/Models/Country.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Production/Product_Inward_Controller.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Production/Job_Master_Controller.php" />
+    <entry file="file://Y:/resources/views/admin/Production/Product_Category/Product_Category_add.blade.php" />
+    <entry file="file://Y:/resources/views/admin/Production/Product_Category/Product_Category_add.blade.php" />
+    <entry file="file://Y:/resources/views/home.blade.php" />
+    <entry file="file://Y:/resources/views/admin/Production/Product_Category/Product_Category_add.blade.php" />
+    <entry file="file://Y:/database/migrations/2017_10_02_083600_Product_Inward_Migration.php" />
+    <entry file="file://Y:/app/Models/Machine_Master_Model.php" />
+    <entry file="file://Y:/database/migrations/2017_10_09_083424_Job_master.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Product/product_controller.php" />
+    <entry file="file://Y:/resources/lang/en/dashboard.php" />
+    <entry file="file://Y:/app/Models/Job_Master_Model.php" />
+    <entry file="file://Y:/app/Models/Country.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Production/Job_Master_Controller.php" />
+    <entry file="file://Y:/.env" />
+    <entry file="file://Y:/config/app.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Production/Product_Inward_Controller.php" />
+    <entry file="file://Y:/resources/views/admin/ProductMaterial/Product_Material_index.blade.php" />
+    <entry file="file://Y:/app/Http/Controllers/Admin/Product/Product_MaterialController.php" />
+    <entry file="file://Y:/resources/views/admin/Production/Inward/Product_Inward_add.blade.php" />
+    <entry file="file://Y:/resources/views/admin/ProductMaterial/Product_Material_form.blade.php" />
+  </component>
+</project>
